@@ -1,0 +1,6 @@
+{
+  "name": "Volt Master - Editor",
+  "description": "Editor de EEPROM e dumps de baterias com suporte a binário e hex, seriais e ciclos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
